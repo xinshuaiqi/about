@@ -10,7 +10,7 @@ I am interested in the plant evolution in the human-altered world. I hope my res
   * 2004 – 2008              B.S. Biotech. Northwest Agriculture & Forest University, Yangling, China
 
 # Skills:
-**Bioinformatics and Comparative Genomics*8 NGS data (GBS, RNASeq), De novo and Reference based Reads Assembly, SNP Variation Calling (Tophat, VCFTools, BCFTools, SamTools, PLink), Selective Sweep Scan (SweeD, H12 test), Gene Expression Analysis (Cufflinks, CummeRbund, DESeq), Gene Annotation (SnpEff), Gene Ontology, CIRCOS plot, LeafJ
+**Bioinformatics and Comparative Genomics** NGS data (GBS, RNASeq), De novo and Reference based Reads Assembly, SNP Variation Calling (Tophat, VCFTools, BCFTools, SamTools, PLink), Selective Sweep Scan (SweeD, H12 test), Gene Expression Analysis (Cufflinks, CummeRbund, DESeq), Gene Annotation (SnpEff), Gene Ontology, CIRCOS plot, LeafJ
  
 **Computer and Data Science** Linux/Unix, Python (Pandas, Numpy, Scipy, Scikit-learn), R (R/qtl, ggplot2, RMarkdown), SQL, LaTex, GitHub.
  
@@ -23,3 +23,6 @@ I am interested in the plant evolution in the human-altered world. I hope my res
   * Origin and genetic basis of weediness traits in the US weedy rice (NSF #1032023, NSF #0638820)
   * Evolution and phylogeny of GSK3 gene family (NSF #0922742, CSC-Joint training program 2011)
   * Phylogeography of East Asia endemic plants – role of land bridges in East Asia (LSEB lab open funding, CAS)
+
+# More about me:
+[**Xinshuai Qi personal webpage**](http://xinshuaiqi.weebly.com/)
